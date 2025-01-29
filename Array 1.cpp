@@ -9,7 +9,6 @@ int main()
    int arraysize = 5;
    int array[arraysize]= {0};
    
- 
    
    for (int i = 0; i < arraysize; ++i)
    {
